@@ -1,8 +1,6 @@
 <h1 align="center">📜 Certificates</h1>
 
-<p align="center">
-  Programming and English language certificates
-</p>
+
 
 <br>
 
