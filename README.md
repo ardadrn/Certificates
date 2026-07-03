@@ -9,7 +9,7 @@
     <td align="center" width="50%">
       <a href="./A1_Seviye_%C4%B0ngilizce_Sertifika.pdf">
         <img
-          src="./A1_Seviye_%C4%B0ngilizce_Sertifika.jpg"
+          src="./A1_Seviye_İngilizce_Sertifika_page-0001.jpg"
           width="360"
           alt="A1 İngilizce Sertifikası"
         >
@@ -26,7 +26,7 @@
   <td align="center" width="50%">
       <a href="./A2_Seviye_%C4%B0ngilizce_Sertifika.pdf">
         <img
-          src="./A2_Seviye_%C4%B0ngilizce_Sertifika.jpg"
+          src="./A2_Seviye_İngilizce_Sertifika_page-0001.jpg"
           width="360"
           alt="A2 İngilizce Sertifikası"
         >
@@ -45,7 +45,7 @@
     <td align="center">
       <a href="./B1_Seviye_%C4%B0ngilizce_Sertifika.pdf">
         <img
-          src="./B1_Seviye_%C4%B0ngilizce_Sertifika.jpg"
+          src="./B1_Seviye_İngilizce_Sertifika_page-0001.jpg"
           width="360"
           alt="B1 İngilizce Sertifikası"
         >
@@ -62,7 +62,7 @@
   <td align="center">
       <a href="./B2_Seviye_%C4%B0ngilizce_Sertifika.pdf">
         <img
-          src="./B2_Seviye_%C4%B0ngilizce_Sertifika.jpg"
+          src="./B2_Seviye_İngilizce_Sertifika_page-0001.jpg"
           width="360"
           alt="B2 İngilizce Sertifikası"
         >
@@ -81,7 +81,7 @@
     <td align="center" colspan="2">
       <a href="./C%23_Programlama_Sertifika.pdf">
         <img
-          src="./C%23_Programlama_Sertifika.jpg"
+          src="./C%23_Programlama_Sertifika_page-0001.jpg"
           width="360"
           alt="C# Programlama Sertifikası"
         >
